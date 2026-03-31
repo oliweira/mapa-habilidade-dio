@@ -1,4 +1,4 @@
-Mapa de Habilidadesö 
+Mapa de Habilidades
 
 # Etapa 1: Inventário de Habilidades 
 
